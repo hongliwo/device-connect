@@ -67,15 +67,33 @@
         <xhtml:link rel="alternate" hreflang="zh" href="https://hongliwo.github.io/device-connect/solution/"/>
     </url>
     <url>
-        <loc>https://hongliwo.github.io/device-connect/solution/ai-bot/</loc>
+        <loc>https://hongliwo.github.io/device-connect/solution/1.situation/</loc>
         <lastmod>2024-12-17</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://hongliwo.github.io/device-connect/solution/ai-bot/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://hongliwo.github.io/device-connect/solution/1.situation/"/>
     </url>
     <url>
-        <loc>https://hongliwo.github.io/device-connect/solution/ai-bot/woan/</loc>
+        <loc>https://hongliwo.github.io/device-connect/solution/2.task/</loc>
         <lastmod>2024-12-17</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://hongliwo.github.io/device-connect/solution/ai-bot/woan/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://hongliwo.github.io/device-connect/solution/2.task/"/>
+    </url>
+    <url>
+        <loc>https://hongliwo.github.io/device-connect/solution/2.task/create-emqx/</loc>
+        <lastmod>2024-12-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://hongliwo.github.io/device-connect/solution/2.task/create-emqx/"/>
+    </url>
+    <url>
+        <loc>https://hongliwo.github.io/device-connect/solution/3.action/</loc>
+        <lastmod>2024-12-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://hongliwo.github.io/device-connect/solution/3.action/"/>
+    </url>
+    <url>
+        <loc>https://hongliwo.github.io/device-connect/solution/4.result/</loc>
+        <lastmod>2024-12-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://hongliwo.github.io/device-connect/solution/4.result/"/>
     </url>
 </urlset>
