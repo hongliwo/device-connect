@@ -61,6 +61,12 @@
         <xhtml:link rel="alternate" hreflang="zh" href="https://hongliwo.github.io/device-connect/service/"/>
     </url>
     <url>
+        <loc>https://hongliwo.github.io/device-connect/service/emqx/</loc>
+        <lastmod>2024-12-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://hongliwo.github.io/device-connect/service/emqx/"/>
+    </url>
+    <url>
         <loc>https://hongliwo.github.io/device-connect/solution/</loc>
         <lastmod>2024-12-17</lastmod>
         <changefreq>daily</changefreq>
@@ -79,16 +85,28 @@
         <xhtml:link rel="alternate" hreflang="zh" href="https://hongliwo.github.io/device-connect/solution/2.task/"/>
     </url>
     <url>
-        <loc>https://hongliwo.github.io/device-connect/solution/2.task/create-emqx/</loc>
-        <lastmod>2024-12-17</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://hongliwo.github.io/device-connect/solution/2.task/create-emqx/"/>
-    </url>
-    <url>
         <loc>https://hongliwo.github.io/device-connect/solution/3.action/</loc>
         <lastmod>2024-12-17</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://hongliwo.github.io/device-connect/solution/3.action/"/>
+    </url>
+    <url>
+        <loc>https://hongliwo.github.io/device-connect/solution/3.action/create-emqx/</loc>
+        <lastmod>2024-12-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://hongliwo.github.io/device-connect/solution/3.action/create-emqx/"/>
+    </url>
+    <url>
+        <loc>https://hongliwo.github.io/device-connect/solution/3.action/manage-emqx/</loc>
+        <lastmod>2024-12-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://hongliwo.github.io/device-connect/solution/3.action/manage-emqx/"/>
+    </url>
+    <url>
+        <loc>https://hongliwo.github.io/device-connect/solution/3.action/mqtt-client/</loc>
+        <lastmod>2024-12-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://hongliwo.github.io/device-connect/solution/3.action/mqtt-client/"/>
     </url>
     <url>
         <loc>https://hongliwo.github.io/device-connect/solution/4.result/</loc>
